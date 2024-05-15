@@ -48,7 +48,7 @@ import cloudscraper
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 from base64 import b64encode, b64decode
-@bot.on_message(filters.command(["exampur"]) & ~filters.user(AUTH_USERS))
+@bot.on_message(filters.command(["exampur"]))
 async def account_login(bot: Client, m: Message):
     global cancel
     cancel = False
