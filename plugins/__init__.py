@@ -28,6 +28,7 @@ async def Start_msg(bot: stark , m: Message):
                             "Press **/chandra** for ** Chandra app**..\n\n"
                             "Press **/mgconcept** for **Mgconcept app**..\n\n"
                             "Press **/down** for **For Downloading Url lists**..\n\n"
+                            "Press **/vedprep** for **vedprep**..\n\n"
                             "Press **/forward** To **Forward from One channel to others**..\n\n"
                             "**𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : RED_X**")
            
