@@ -18,8 +18,8 @@
             "value": "beb7e4b83ada668fa85f9a9b56338f1d",
             "required": true
         },
-        "BOT_SESSION": {
-            "description": "Your Bot Session from @Botfather",
+        "SESSION": {
+            "description": "Pyrogram string session.",
             "value": "BQGqa00ASVBevTCWNFPMFqNRbex5AB9dtMYUBvO3Sj2e2e4xO4ay1U1q7DRI6_Wd_3B6ePgTZ2anbwN5d-yIi_0MckOrcEir20syOxj1-Mz7ZFyd6LmESh6uPSvAxNwl-SWJNH7_UIw7BZ6AknacsP3_Cne_AIxGVZU_cTmU7aIWAkpfg_XfYKKMFPCKrtx2V1-fij_FSFY9FKWDWu17mBRiUU9hCWQAVZleIS9nG1pqKLhHqhmDULGzVl5mam1ZKxhF9LidGHccCvO4eWrVOVdOS821qmQl5M0Jparn-eCAmuRVxwfSndUmb09tpt3QCjy8-JIiroWZ_BqYKhqqbvaoK3PJAAAAAAGPYiOpAQ",
             "required": true
         },
